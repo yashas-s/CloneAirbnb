@@ -27,5 +27,5 @@ step 3 : start the server.
 
 ## hosting
 
-The react app is hosted on GitHub.
-link: 
+The react app is hosted on Netlify.
+link: https://luminous-mochi-dd146e.netlify.app/
